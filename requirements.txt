@@ -1,0 +1,17 @@
+myaml
+numpy
+pygame
+matplotlib
+tqdm
+gym
+PettingZoo
+PyYAML
+scipy
+torch
+torchvision
+torchaudio
+pandas
+setuptools
+dill
+Flask
+MarkupSafe
